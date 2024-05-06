@@ -1,3 +1,6 @@
 [submodule "Chronos/chronos-forecasting"]
 	path = Chronos/chronos-forecasting
 	url = git@github.com:amazon-science/chronos-forecasting.git
+[submodule "Lag-Llama/lag-llama"]
+	path = Lag-Llama/lag-llama
+	url = https://github.com/time-series-foundation-models/lag-llama.git
